@@ -1,0 +1,1176 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hie"
+      },
+      {
+        "intent": "greet",
+        "text": "hi there"
+      },
+      {
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "intent": "greet",
+        "text": "hi greetings"
+      },
+      {
+        "intent": "greet",
+        "text": "hello greetings"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Can I have meeting with coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Can I have appointment with coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Can I have an appointment with acadamic advisor"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "I would like to have an appointment with Coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "How can I schedule an appointment with Lude"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "I'm looking  to fix an appointment with Coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "I'm here to schedule an appointment with Coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "How can I make an appointment with Coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Please schedule an appointmet with coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "book an appointment with academic advisor"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "book an appointment with coretta"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "book an appointment with ludie"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "block a calender with ludie"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "would like to book an appointment with Ludie"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "would like to book an appointment with Ludie this week"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Can I have meeting with coretta on  04/12/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Can I have appointment with coretta on 04/13/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Can I have an appointment with acadamic advisor on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "I would like to have an appointment with Coretta on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "How can I schedule an appointment with Lude on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "I'm looking  to fix an appointment with Coretta on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "I'm here to schedule an appointment with Coretta on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "How can I scmake an appointment with Coretta on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "Please schedule an appointmet with coretta on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "book an appointment with academic advisor on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "book an appointment with coretta on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "book an appointment with ludie on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "block a calender with ludie on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "wold like to book an appointment with Ludie on 04/15/2021"
+      },
+      {
+        "intent": "appointment_with_Academic_advisor",
+        "text": "wold like to book an appointment with Ludie this week on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for batminton this week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for swimming this week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for vollyball this week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for Gym this week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I need to book a slot for gym this week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I need to book a slot for batminton this week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "please book a slot for batminton next week"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Could you please book 2 slots for batminton this week."
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "what are all the available slots for gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "available slots for batminton"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "available slots for swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "available slots for picky ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for batminton"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for pickyball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for vollyball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for basketball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 3 slots for batminton"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 1 slots for gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 3 slots for swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 4 slots for pickyball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 1 slots for vollyball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 1 slots for basketball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Disc Golf"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Lindy Hop Club"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Salsa Dance"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Fishing Club"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Rugby Club."
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Triathlon Club"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Rugby"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Disc Golf"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Lindy Hop"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Fishing"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Salsa Dance"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Triathlon"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for MSOC Practice"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Full Body Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Full Body Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Dance Fit"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Out Door Pursuits"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for MSOC"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Basket Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Volly Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Lindy Hop"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for  Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Full Body Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Outdoor Pursuits"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Aquatic center"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "what are all the available slots for gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Rugby"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Full Bpdy Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Boot camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Volly Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Picky Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Basket Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Disc Golf"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Dance Fit"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Dance Fit"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for MSOC"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Picky Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Dance fit"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "what are all the available slots for Aquatic Center"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for MSOC"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Outdoor Pursuits"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Volley Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Basket Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Lidy Hop"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Rugby"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book 2 slots for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Picky Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Msoc"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Volley Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Outdoor Pursuits"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Dance Fit"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Batminton"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Full Body Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Rugby"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Fishing"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Boot Camp"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Basket Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Volly Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Lindy Hop"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for  Yoga"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Gym"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Full Body Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Swimming"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Outdoor Pursuits"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Aquatic center"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Fishing"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Picky Ball"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Pilates"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Rugby"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for batminton this week on 04/12/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for swimming this week on 04/12/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for vollyball this week on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "how many slots available for Gym this week on 04/20/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I need to book a slot for gym this week on 04/20/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I need to book a slot for batminton this week on 04/25/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "please book a slot for batminton next week on 04/30/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Could you please book 2 slots for batminton this week.  04/22/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "what are all the available slots for gym on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "available slots for batminton on 04/13/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "available slots for swimming on 04/14/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "available slots for picky ball on 04/20/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for batminton on 04/25/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for gym on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for swimming on 05/01/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for pickyball on 05/05/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for vollyball on 05/02/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 2 slots for basketball on 04/25/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 3 slots for batminton on 05/05/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 1 slots for gym on 05/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 3 slots for swimming on 05/12/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 4 slots for pickyball on 05/14/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 1 slots for vollyball on 04/16/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "looking to book 1 slots for basketball on 04/18/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Disc Golf on 04/19/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Lindy Hop Club on 04/21/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Salsa Dance on 04/31/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Fishing Club on 05/25/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Rugby Club. on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Triathlon Club on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Rugby on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Disc Golf on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Lindy Hop on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Fishing on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Salsa Dance on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Triathlon on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for MSOC Practice on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Full Body Workout on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Boot Camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Yoga on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Number of slots available for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Full Body Workout on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Dance Fit on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Yoga on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Boot Camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for Out Door Pursuits on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "Are there any slots available for MSOC on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Boot Camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Basket Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Volly Ball  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Lindy Hop  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for  Yoga on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Gym on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Full Body Workout"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Swimming  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Outdoor Pursuits on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Aquatic center on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "what are all the available slots for gym on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book an slot for Rugby on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for gym on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Full Bpdy Workout on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Boot camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Volly Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Picky Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Basket Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Disc Golf on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Swimming on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Dance Fit on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Yoga on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Dance Fit on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for MSOC on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "What are all the available slots for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Workout on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Swimming on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Picky Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Dance fit on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Yoga on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Boot Camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "what are all the available slots for Aquatic Center on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for MSOC on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Outdoor Pursuits on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Volley Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book a slot for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Basket Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Boot Camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Lidy Hop on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Rugby on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I wanted to book 2 slots for Boot Camp on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Picky Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Msoc on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Volley Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Outdoor Pursuits on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Dance Fit on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Batminton on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Full Body Workout on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Yoga on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Rugby on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Swimming on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "How can I book the slots for Fishing on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Boot Camp  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Basket Ball  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Volly Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Lindy Hop on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for  Yoga  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Gym on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Full Body Workout  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Swimming on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Outdoor Pursuits  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Aquatic center  on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Fishing on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Picky Ball on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Pilates on 04/15/2021"
+      },
+      {
+        "intent": "To_book_a_slot_for_recreation",
+        "text": "I'm here to book 2 slots for Rugby on 04/15/2021"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks!"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thank you"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thx"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks very much"
+      },
+      {
+        "intent": "thankyou",
+        "text": "tqs"
+      },
+      {
+        "intent": "thankyou",
+        "text": "sure thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thats cool thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thank you so much"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks a lot"
+      },
+      {
+        "intent": "thankyou",
+        "text": "ok thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "okay thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "sure thanks"
+      },
+      {
+        "intent": "howareyou",
+        "text": "hi how are you"
+      },
+      {
+        "intent": "howareyou",
+        "text": "hello how are you"
+      },
+      {
+        "intent": "howareyou",
+        "text": "how do you do"
+      },
+      {
+        "intent": "howareyou",
+        "text": "how are you doing"
+      },
+      {
+        "intent": "howareyou",
+        "text": "how are you"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}

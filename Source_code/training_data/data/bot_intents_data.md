@@ -1,0 +1,302 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- hi
+- hie
+- hi there
+- hello there
+- greetings
+- hi greetings
+- hello greetings
+
+## intent:appointment_with_Academic_advisor
+- Can I have meeting with coretta
+- Can I have appointment with coretta
+- Can I have an appointment with acadamic advisor
+- I would like to have an appointment with Coretta
+- How can I schedule an appointment with Lude
+- I'm looking  to fix an appointment with Coretta
+- I'm here to schedule an appointment with Coretta
+- How can I make an appointment with Coretta
+- Please schedule an appointmet with coretta
+- book an appointment with academic advisor
+- book an appointment with coretta
+- book an appointment with ludie
+- block a calender with ludie
+- would like to book an appointment with Ludie
+- would like to book an appointment with Ludie this week
+- Can I have meeting with coretta on  04/12/2021
+- Can I have appointment with coretta on 04/13/2021
+- Can I have an appointment with acadamic advisor on 04/15/2021
+- I would like to have an appointment with Coretta on 04/15/2021
+- How can I schedule an appointment with Lude on 04/15/2021
+- I'm looking  to fix an appointment with Coretta on 04/15/2021
+- I'm here to schedule an appointment with Coretta on 04/15/2021
+- How can I scmake an appointment with Coretta on 04/15/2021
+- Please schedule an appointmet with coretta on 04/15/2021
+- book an appointment with academic advisor on 04/15/2021
+- book an appointment with coretta on 04/15/2021
+- book an appointment with ludie on 04/15/2021
+- block a calender with ludie on 04/15/2021
+- wold like to book an appointment with Ludie on 04/15/2021
+- wold like to book an appointment with Ludie this week on 04/15/2021
+
+## intent:To_book_a_slot_for_recreation
+
+- how many slots available for batminton this week
+- how many slots available for swimming this week
+- how many slots available for vollyball this week
+- how many slots available for Gym this week
+- I need to book a slot for gym this week
+- I need to book a slot for batminton this week
+- please book a slot for batminton next week
+- Could you please book 2 slots for batminton this week.
+- what are all the available slots for gym
+- available slots for batminton
+- available slots for swimming
+- available slots for picky ball
+- looking to book 2 slots for batminton
+- looking to book 2 slots for gym
+- looking to book 2 slots for swimming
+- looking to book 2 slots for pickyball
+- looking to book 2 slots for vollyball
+- looking to book 2 slots for basketball
+- looking to book 3 slots for batminton
+- looking to book 1 slots for gym
+- looking to book 3 slots for swimming
+- looking to book 4 slots for pickyball
+- looking to book 1 slots for vollyball
+- looking to book 1 slots for basketball
+- Are there any slots available for Disc Golf
+- Are there any slots available for Lindy Hop Club
+- Are there any slots available for Salsa Dance
+- Are there any slots available for Fishing Club
+- Are there any slots available for Rugby Club.
+- Are there any slots available for Triathlon Club
+- Number of slots available for Rugby
+- Number of slots available for Disc Golf
+- Number of slots available for Lindy Hop
+- Number of slots available for Fishing
+- Number of slots available for Salsa Dance
+- Number of slots available for Triathlon
+- Number of slots available for MSOC Practice
+- Number of slots available for Full Body Workout
+- Number of slots available for Boot Camp
+- Number of slots available for Yoga
+- Number of slots available for Pilates 
+- Are there any slots available for Pilates
+- Are there any slots available for Full Body Workout
+- Are there any slots available for Dance Fit
+- Are there any slots available for Yoga
+- Are there any slots available for Boot Camp
+- Are there any slots available for Out Door Pursuits
+- Are there any slots available for MSOC
+- I'm here to book an slot for Boot Camp 
+- I'm here to book an slot for Basket Ball 
+- I'm here to book an slot for Volly Ball 
+- I'm here to book an slot for Lindy Hop 
+- I'm here to book an slot for  Yoga 
+- I'm here to book an slot for Gym 
+- I'm here to book an slot for Full Body Workout  
+- I'm here to book an slot for Swimming 
+- I'm here to book an slot for Outdoor Pursuits 
+- I'm here to book an slot for Aquatic center 
+- what are all the available slots for gym
+- I'm here to book an slot for Rugby
+- What are all the available slots for gym
+- What are all the available slots for Full Bpdy Workout
+- What are all the available slots for Boot camp
+- What are all the available slots for Volly Ball
+- What are all the available slots for Picky Ball
+- What are all the available slots for Basket Ball
+- What are all the available slots for Disc Golf
+- What are all the available slots for Swimming
+- What are all the available slots for Dance Fit
+- What are all the available slots for Yoga
+- What are all the available slots for Dance Fit
+- What are all the available slots for MSOC
+- What are all the available slots for Pilates
+- I wanted to book a slot for Workout
+- I wanted to book a slot for Swimming
+- I wanted to book a slot for Picky Ball 
+- I wanted to book a slot for Dance fit
+- I wanted to book a slot for Yoga
+- I wanted to book a slot for Boot Camp 
+- what are all the available slots for Aquatic Center
+- I wanted to book a slot for MSOC 
+- I wanted to book a slot for Outdoor Pursuits
+- I wanted to book a slot for Volley Ball 
+- I wanted to book a slot for Pilates
+- How can I book the slots for Basket Ball
+- How can I book the slots for Boot Camp
+- How can I book the slots for Lidy Hop
+- How can I book the slots for Rugby
+- I wanted to book 2 slots for Boot Camp 
+- How can I book the slots for Picky Ball
+- How can I book the slots for Msoc
+- How can I book the slots for Volley Ball
+- How can I book the slots for Outdoor Pursuits
+- How can I book the slots for Pilates
+- How can I book the slots for Dance Fit
+- How can I book the slots for Batminton
+- How can I book the slots for Full Body Workout 
+- How can I book the slots for Yoga
+- How can I book the slots for Rugby
+- How can I book the slots for Pilates
+- How can I book the slots for Swimming
+- How can I book the slots for Fishing
+- I'm here to book 2 slots for Boot Camp 
+- I'm here to book 2 slots for Basket Ball 
+- I'm here to book 2 slots for Volly Ball 
+- I'm here to book 2 slots for Lindy Hop 
+- I'm here to book 2 slots for  Yoga 
+- I'm here to book 2 slots for Gym 
+- I'm here to book 2 slots for Full Body Workout  
+- I'm here to book 2 slots for Swimming 
+- I'm here to book 2 slots for Outdoor Pursuits 
+- I'm here to book 2 slots for Aquatic center 
+- I'm here to book 2 slots for Fishing 
+- I'm here to book 2 slots for Picky Ball 
+- I'm here to book 2 slots for Pilates
+- I'm here to book 2 slots for Rugby
+- how many slots available for batminton this week on 04/12/2021
+- how many slots available for swimming this week on 04/12/2021
+- how many slots available for vollyball this week on 04/15/2021
+- how many slots available for Gym this week on 04/20/2021
+- I need to book a slot for gym this week on 04/20/2021
+- I need to book a slot for batminton this week on 04/25/2021
+- please book a slot for batminton next week on 04/30/2021
+- Could you please book 2 slots for batminton this week.  04/22/2021
+- what are all the available slots for gym on 04/15/2021
+- available slots for batminton on 04/13/2021
+- available slots for swimming on 04/14/2021
+- available slots for picky ball on 04/20/2021
+- looking to book 2 slots for batminton on 04/25/2021
+- looking to book 2 slots for gym on 04/15/2021
+- looking to book 2 slots for swimming on 05/01/2021
+- looking to book 2 slots for pickyball on 05/05/2021
+- looking to book 2 slots for vollyball on 05/02/2021
+- looking to book 2 slots for basketball on 04/25/2021
+- looking to book 3 slots for batminton on 05/05/2021
+- looking to book 1 slots for gym on 05/15/2021
+- looking to book 3 slots for swimming on 05/12/2021
+- looking to book 4 slots for pickyball on 05/14/2021
+- looking to book 1 slots for vollyball on 04/16/2021
+- looking to book 1 slots for basketball on 04/18/2021
+- Are there any slots available for Disc Golf on 04/19/2021
+- Are there any slots available for Lindy Hop Club on 04/21/2021
+- Are there any slots available for Salsa Dance on 04/31/2021
+- Are there any slots available for Fishing Club on 05/25/2021
+- Are there any slots available for Rugby Club. on 04/15/2021
+- Are there any slots available for Triathlon Club on 04/15/2021
+- Number of slots available for Rugby on 04/15/2021
+- Number of slots available for Disc Golf on 04/15/2021
+- Number of slots available for Lindy Hop on 04/15/2021
+- Number of slots available for Fishing on 04/15/2021
+- Number of slots available for Salsa Dance on 04/15/2021
+- Number of slots available for Triathlon on 04/15/2021
+- Number of slots available for MSOC Practice on 04/15/2021
+- Number of slots available for Full Body Workout on 04/15/2021
+- Number of slots available for Boot Camp on 04/15/2021
+- Number of slots available for Yoga on 04/15/2021
+- Number of slots available for Pilates on 04/15/2021
+- Are there any slots available for Pilates on 04/15/2021
+- Are there any slots available for Full Body Workout on 04/15/2021
+- Are there any slots available for Dance Fit on 04/15/2021
+- Are there any slots available for Yoga on 04/15/2021
+- Are there any slots available for Boot Camp on 04/15/2021
+- Are there any slots available for Out Door Pursuits on 04/15/2021
+- Are there any slots available for MSOC on 04/15/2021
+- I'm here to book an slot for Boot Camp on 04/15/2021
+- I'm here to book an slot for Basket Ball on 04/15/2021
+- I'm here to book an slot for Volly Ball  on 04/15/2021
+- I'm here to book an slot for Lindy Hop  on 04/15/2021
+- I'm here to book an slot for  Yoga on 04/15/2021
+- I'm here to book an slot for Gym on 04/15/2021
+- I'm here to book an slot for Full Body Workout  
+- I'm here to book an slot for Swimming  on 04/15/2021
+- I'm here to book an slot for Outdoor Pursuits on 04/15/2021
+- I'm here to book an slot for Aquatic center on 04/15/2021
+- what are all the available slots for gym on 04/15/2021
+- I'm here to book an slot for Rugby on 04/15/2021
+- What are all the available slots for gym on 04/15/2021
+- What are all the available slots for Full Bpdy Workout on 04/15/2021
+- What are all the available slots for Boot camp on 04/15/2021
+- What are all the available slots for Volly Ball on 04/15/2021
+- What are all the available slots for Picky Ball on 04/15/2021
+- What are all the available slots for Basket Ball on 04/15/2021
+- What are all the available slots for Disc Golf on 04/15/2021
+- What are all the available slots for Swimming on 04/15/2021
+- What are all the available slots for Dance Fit on 04/15/2021
+- What are all the available slots for Yoga on 04/15/2021
+- What are all the available slots for Dance Fit on 04/15/2021
+- What are all the available slots for MSOC on 04/15/2021
+- What are all the available slots for Pilates on 04/15/2021
+- I wanted to book a slot for Workout on 04/15/2021
+- I wanted to book a slot for Swimming on 04/15/2021
+- I wanted to book a slot for Picky Ball on 04/15/2021
+- I wanted to book a slot for Dance fit on 04/15/2021
+- I wanted to book a slot for Yoga on 04/15/2021
+- I wanted to book a slot for Boot Camp on 04/15/2021
+- what are all the available slots for Aquatic Center on 04/15/2021
+- I wanted to book a slot for MSOC on 04/15/2021
+- I wanted to book a slot for Outdoor Pursuits on 04/15/2021
+- I wanted to book a slot for Volley Ball on 04/15/2021
+- I wanted to book a slot for Pilates on 04/15/2021
+- How can I book the slots for Basket Ball on 04/15/2021
+- How can I book the slots for Boot Camp on 04/15/2021
+- How can I book the slots for Lidy Hop on 04/15/2021
+- How can I book the slots for Rugby on 04/15/2021
+- I wanted to book 2 slots for Boot Camp on 04/15/2021
+- How can I book the slots for Picky Ball on 04/15/2021
+- How can I book the slots for Msoc on 04/15/2021
+- How can I book the slots for Volley Ball on 04/15/2021
+- How can I book the slots for Outdoor Pursuits on 04/15/2021
+- How can I book the slots for Pilates on 04/15/2021
+- How can I book the slots for Dance Fit on 04/15/2021
+- How can I book the slots for Batminton on 04/15/2021
+- How can I book the slots for Full Body Workout on 04/15/2021
+- How can I book the slots for Yoga on 04/15/2021
+- How can I book the slots for Rugby on 04/15/2021
+- How can I book the slots for Pilates on 04/15/2021
+- How can I book the slots for Swimming on 04/15/2021
+- How can I book the slots for Fishing on 04/15/2021
+- I'm here to book 2 slots for Boot Camp  on 04/15/2021
+- I'm here to book 2 slots for Basket Ball  on 04/15/2021
+- I'm here to book 2 slots for Volly Ball on 04/15/2021
+- I'm here to book 2 slots for Lindy Hop on 04/15/2021
+- I'm here to book 2 slots for  Yoga  on 04/15/2021
+- I'm here to book 2 slots for Gym on 04/15/2021
+- I'm here to book 2 slots for Full Body Workout  on 04/15/2021
+- I'm here to book 2 slots for Swimming on 04/15/2021
+- I'm here to book 2 slots for Outdoor Pursuits  on 04/15/2021
+- I'm here to book 2 slots for Aquatic center  on 04/15/2021
+- I'm here to book 2 slots for Fishing on 04/15/2021
+- I'm here to book 2 slots for Picky Ball on 04/15/2021
+- I'm here to book 2 slots for Pilates on 04/15/2021
+- I'm here to book 2 slots for Rugby on 04/15/2021
+
+## intent:thankyou
+- thanks!
+- thank you
+- thx
+- thanks very much
+- tqs
+- sure thanks
+- thats cool thanks
+- thank you so much
+- thanks a lot
+- ok thanks
+- okay thanks
+- sure thanks
+
+## intent:howareyou
+- hi how are you
+- hello how are you
+- how do you do
+- how are you doing
+- how are you

@@ -1,0 +1,525 @@
+[2021-05-11 15:42:49](129326)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:42:50](179131)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:42:51](53055)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:46:01](33015)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:46:02](162226)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:46:03](76184)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:24](149601)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:25](162123)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:26](43404)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:29](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:34](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:39](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:44](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:49](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:54](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:48:59](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:04](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:09](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:14](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:19](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:24](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:29](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:34](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:39](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:44](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:49](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:54](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:49:59](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:04](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:09](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:14](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:19](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:24](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:29](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:34](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:39](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:44](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:49](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:54](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:50:59](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:04](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:09](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:14](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:19](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:24](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:29](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:34](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:39](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:44](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:49](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:54](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:51:59](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:04](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:09](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:14](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:19](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:24](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:29](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:34](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:39](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:44](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:49](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:54](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:52:59](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:04](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:09](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:14](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:19](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:24](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:29](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:34](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:39](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:43](177323)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:44](16408)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:44](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:45](175463)
+User_Input: triggerit
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:49](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:54](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:53:59](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:54:04](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:54:09](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-05-11 15:54:14](43404)
+User_Input: ping
+Error_Details: 'str' object has no attribute 'str'
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 77, in inp\n    text1=text1.str.replace(\'[^\\w\\s]\', \'\')\n']
+
+[2021-09-14 13:51:00](101273)
+User_Input: triggerit
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:01](132036)
+User_Input: triggerit
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:02](25620)
+User_Input: triggerit
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:04](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:09](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:14](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:19](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:24](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:29](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:34](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:39](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:44](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:49](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:54](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:51:59](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:04](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:09](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:14](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:19](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:24](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:29](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:34](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+
+[2021-09-14 13:52:39](25620)
+User_Input: ping
+Error_Details: name 'vectorizer' is not defined
+Traceback_details: ['  File "C:/Users/muppa/Downloads/UMKC_Bot_V1/bot_api.py", line 54, in GetFAQ\n    data=message_processor.inp(re.sub(" +"," ",statement.strip()), data[\'sender\'])#, data[\'sess_id\']#,data["email_id"],data["username"],data["Session_start_time"],data[\'Hit_count\'])#data[\'Hit_count\']\n', '  File "C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\message_processor.py", line 81, in inp\n    vects=vectorizer.transform(text)\n']
+

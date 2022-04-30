@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\muppa\\Downloads\\Tamak_Bot_V1\\./models/default\\Tamak\'s_intents_data\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\muppa\\Downloads\\Tamak_Bot_V1\\./models/default\\Tamak\'s_intents_data\\intent_classifier_tensorflow_embedding.ckpt"
