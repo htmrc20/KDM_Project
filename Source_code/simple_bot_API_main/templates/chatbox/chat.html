@@ -1,0 +1,63 @@
+<html>
+<head>
+	<!-- https://bootsnipp.com/tags/chat?page=2 -->
+	<title>Chat box</title>
+	<link href="/static/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'>
+	<link rel='stylesheet prefetch' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
+	<link rel="stylesheet" href="/static/css/chat.css">
+	<link href="/static/css/jquery.tagit.css" rel="stylesheet" type="text/css">
+    <link href="/static/css/tagit.ui-zendesk.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div id="body">
+
+<div id="chat-circle" class="btn btn-raised hvr-float" data-toggle="tooltip" title="Hey, How can I help you ?">
+        <div id="chat-overlay"></div>
+		    <i class="material-icons">forum</i>
+	</div>
+
+  <div class="chat-box">
+
+		<div class="chat_window">
+	   <div class="top_menu">
+		  <div class="title">Welcome to UMKC Roo
+		   <span class="chat-box-toggle"><i class="material-icons">cancel</i></span>
+		   </div>
+	   </div>
+	  <div class="chat-bg">
+		<ul class="messages"></ul>
+	   <div class="notification_wrapper">
+		<p class="error"></p>
+	   </div>
+	   <div class="bottom_wrapper clearfix">
+		  <div class="message_input_wrapper">
+			 <textarea class="message_input" id="message_input" placeholder="Type your message here..." /></textarea>
+		  </div>
+	   </div>
+		</div>
+	</div>
+	<div class="message_template">
+	   <li class="message" style="opacity: 0;">
+		  <div class="avatar"></div>
+		  <!-- <p class="hr_typing">Nainy is typing <span></span><span></span><span></span><span></span></p> -->
+		  <!--<img class="bot_typing" src="images/icon_typing.gif" style="display:block;" />-->
+		  <div class="text_wrapper">
+			 <div class="text"></div>
+		  </div>
+	   </li>
+	</div>
+  </div>
+
+</div>
+	<script src="/static/js/jquery-1.11.1.min.js"></script>
+	<script src="/static/js/jquery-ui.min.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
+	<script src="/static/js/tag-it.js"></script>
+	<script src="/static/js/config.js"></script>
+	<script src="/static/js/chat.js"></script>
+</body>
+</html>
+
