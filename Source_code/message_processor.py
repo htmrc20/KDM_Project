@@ -1,6 +1,4 @@
-__AUTHORS__="Devna Chaturvedi" and "GIREESH KUMAR Muppalla"  and 'Sai Harshavardhan Mylavarapu' and 'Yusuf'\
-           "UMKC ChatBot" \
-           "------------------ BUSINESS LOGIC FILE-----------------------"
+
 
 """
 This python file will process the user message received from skype
