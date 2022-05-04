@@ -5,14 +5,14 @@
     var Timeout;
     var cleared = false;
     var active = [];
-    var autoCloseTimeOut; // added by Meenakshi Pasrija on 23rd July
+    var autoCloseTimeOut;
 
     // Function to track total number of active SetTimeout functions are active
     function Timeout(fn, interval) {
         active.push(1);
         var id = setTimeout(function() {
             fn();
-            active.pop(); // remove from array once function is finished.
+            active.pop();
           },interval);
     }
 
@@ -109,11 +109,12 @@
         };
 		
 		botReply = function (sender_id, text, data) {
-
-            text = text.trim();
+        var chat_bot_url = "http://192.168.86.96:5004/tamak-bot";
+            //text = text.trim();
             if (text == '') return;
 			var request = $.ajax({
 			  url: chat_bot_url,
+             // url: "http://127.0.0.1:5000 ",
 			  type: "POST",
 			  data: JSON.stringify({sender: sender_id, message: text, resume_data: data}),
 			  contentType : "application/json", 
@@ -136,7 +137,6 @@
                 if (hr_name == '' && match != null && match.length > 0) {
                     hr_name = match[1];
                     console.log(hr_name);
-//                    $('p.error').html('Tia is typing...');
                 }
 
                 // Extract User name
@@ -328,7 +328,7 @@
                 $('p.error').show();
                 $('.messages').append($wait_msg);
                 $('.messages').animate({ scrollTop: $('.messages').prop('scrollHeight') }, 1000);
-            }, ajax_timeout);
+            }); // changes  - removed ,ajax_timeout
         }).ajaxStop( function () {
             clearTimeout(timer);
             $('.wait_msg').hide();
@@ -495,8 +495,8 @@
                 random_id = get_random_id();
                 console.log('uuid', random_id);
                 var t = new Timeout(function () {
-                    botReply(random_id, trigger_bot_text);
-                }, 500);
+                    botReply(random_id, trigger_bot_text); //change
+                }, 5000);
                 $('.message_input_wrapper').find('.message_input').removeAttr('disabled');
                 $('.message_input_wrapper').css('background', '#fff');
                 is_initialized = false;

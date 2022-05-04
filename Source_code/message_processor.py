@@ -26,16 +26,12 @@ bot=config_file_processor.chatbot()
 event_data = Interpreter.load("./models/default/event_data")
 intent_classifier = Interpreter.load("./models/default/Tamak's_intents_data")
 
-#
-# intent_classifier1 = pickle.load('C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\models\\chat_bot_final.sav')
-# vectorizer = pickle.load('C:\\Users\\muppa\\Downloads\\UMKC_Bot_V1\\models\\vectorizer.sav')
-
 #-------------------SESSION CREATION-----------------------
 
 conversation_sessions = ConversationSessionManager()
 
 #------------------------------------------FILES PATH----------------------------------------
-log_path = 'C:\\Users\\saiha\\My Documents\\UMKC_Bot_V1'
+log_path = '.\\'
 
 
 
@@ -75,11 +71,7 @@ def inp(text, sess_id):
     text1=text1.replace('[^\w\s]', '')
     text1=re.sub(r"\d+", "", text1).strip()
 
-    #### feature extraction #################
-    # vects=vectorizer.transform(text)
-
-    ## Intent Extraction ##################
-    # intent2=intent_classifier1.predict(vects)
+    ## Intent Extraction #################
     logs_user(filename, "User", text)
     print(text,"above")
     text=' '.join(text.split('\n'))
@@ -108,67 +100,43 @@ def inp(text, sess_id):
     intent1=intent['name']
     if (intent1=='greet' and intent['confidence']>0.96) or text=='triggerit' :
         text1="Hi, I can help you to book a slot for recreational activities and to schedule a meeting with academic advisor?"
-
     elif current_session.pre_input=="When do you want to book the slot, Please mention the data and time (mm/dd HH:MM) in CST ?" and current_session.intent=='appointment_with_Academic_advisor':
         current_session.datetime=text
         text1="Your slot is booked with Coretta on "+current_session.datetime+ " for 15 minutes. Thanks"
         current_session=None
-
-
     elif intent1=='appointment_with_Academic_advisor' and intent['confidence']>0.75:
         text1="When do you want to book the slot, Please mention the data and time (mm/dd HH:MM) in CST ?"
         current_session.pre_input=text1
         current_session.intent = 'appointment_with_Academic_advisor'
-
     elif current_session.pre_input=="When do you want to book the slot, Please mention the data and time (mm/dd HH:MM) in CST ?" and current_session.date_time is None:
         current_session.datetime=text
         text1="Your slot is booked with Coretta on "+current_session.datetime+ "for 15 minutes. Thanks"
         current_session=None
         current_session.pre_input=None
-
     elif intent1=='To_book_a_slot_for_recreation' and intent['confidence']>0.70 and current_session.gamename is None:
         text1="Please mention the game that you want to play"
         print("in game is none")
         current_session.pre_input=text1
         current_session.intent = 'To_book_a_slot_for_recreation'
-
     elif intent1=='To_book_a_slot_for_recreation' and intent['confidence']>0.70 and current_session.gamename is not None and current_session.date is None:
         text1="When do you want to play the " +current_session.gamename+", Please mention the date in (MM/DD) format"
         current_session.pre_input=text1
         current_session.intent = 'To_book_a_slot_for_recreation'
-
-
     elif current_session.intent=='To_book_a_slot_for_recreation' and current_session.pre_input=="Please mention the game that you want to play" and current_session.gamename is None and current_session.date is None:
         current_session.gamename = text
         text1="When do you want to play the " +current_session.gamename+", Please mention the date in (MM/DD) format"
         current_session.pre_input=text1
-
-
     elif current_session.intent=='To_book_a_slot_for_recreation' and current_session.pre_input=="When do you want to play the " +current_session.gamename+", Please mention the date in (MM/DD) format" and current_session.gamename is not None and current_session.date is None:
         current_session.date = text
         text1="Your slot for " + current_session.gamename + " on " + current_session.date + " at "+str(random.randint(1,8)) +" PM is booked. Thanks"
         current_session.pre_input=text1
         current_session=None
-
-        # import pyodbc
-        # conn = pyodbc.connect('Driver={SQL Server};'
-        #                       'Server=localhost;'
-        #                       'Database=UMKC_Bot;'
-        #                       'Trusted_Connection=yes;')
-        #
-        # cursor = conn.cursor()
-        # cursor.execute('INSERT INTO bot_logs VALUES('+current_session.gamename+','+current_session.date+','+current_session.date_time+"'")
-
     elif intent1=='thankyou':
         text1=random.choice(["You are Welcome","No Problem", "Np", "That's Alright", "No Worries"])
-
     else:
         text1="Didn't get you, Could you please re-phrase it"
-    # print(intent['confidence'], "confidence")
     print(text,"given text")
-    # print(current_session.pre_input, "previous_text")
     print(intent1)
-    # print("game, date",current_session.gamename, current_session.date)
     return text1
 
 

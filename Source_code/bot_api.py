@@ -76,10 +76,10 @@ def shutdown():
 
 def startAPIs():
     try:
-        app.run("192.168.1.166", port=(5004), debug=False, threaded=False)
+        app.run("192.168.86.96", port=(5004), debug=False, threaded=False)
         app.run()
     except Exception as e:
-        raise ("APIs not started Exception (startAPIs ) at : " + str("192.168.1.240") + ":" + str(5004) + " due to :" + str(
+        raise ("APIs not started Exception (startAPIs ) at : " + str("192.168.86.96") + ":" + str(5004) + " due to :" + str(
             e))
 if __name__ == '__main__':
     startAPIs()
